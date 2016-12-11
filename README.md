@@ -1,2 +1,4 @@
-# about-NEUMSC
-about NEUMSC
+#技术部
+本repository主要用于技术内部的一些事务性的事情的公示与讨论。
+
+
